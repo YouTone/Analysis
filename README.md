@@ -27,8 +27,9 @@
 
 ## Репозитории на GitHub
 
-[Аналитика в диаграммах] (https://github.com/YouTone/analise "Аналитика")
-[Бот мгновенного обучения] (https://github.com/YouTone/Onmyair "Бот Телеграм")
+Аналитика в диаграммах [Репозиторий](https://github.com/YouTone/analise "Аналитика")
+
+Звукодзи [Бот мгновенного обучения](https://github.com/YouTone/Onmyair "Бот Телеграм")
 
 
 ===========================
